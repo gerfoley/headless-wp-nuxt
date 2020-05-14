@@ -1,8 +1,8 @@
 {
-  "name": "wp-nuxt",
+  "name": "IL Headless",
   "version": "1.0.0",
-  "description": "Headless WordPress with Nuxt",
-  "author": "geoffgraham and sdras",
+  "description": "Headless WordPress IL with Nuxt",
+  "author": "gerry foley",
   "private": true,
   "scripts": {
     "dev": "nuxt",
