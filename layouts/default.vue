@@ -141,7 +141,7 @@ body.home .ilsignup p {
 }
 
 .ilsignup input[type=email] {
-    background: #fff url(static/email-light.svg) no-repeat 15px 16px;
+    background: #fff url("/email-light.svg") no-repeat 15px 16px;
     background-size: 1.6875rem 1.125rem;
     color: #3b3b45;
     content: " ";
