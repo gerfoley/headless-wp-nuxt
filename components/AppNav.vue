@@ -32,6 +32,7 @@ export default {
   a {
     color: #fff;
     opacity: 0.8;
+    padding: 0.5rem;
     &:hover {
       opacity: 1;
     }
@@ -50,7 +51,7 @@ ul {
 
   li {
     display: inline-block;
-    margin-right: 30px;
+    margin-bottom: 0.5rem;
   }
 }
 </style>
