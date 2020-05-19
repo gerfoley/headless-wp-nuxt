@@ -28,6 +28,7 @@ export default {
   background: #152d6e;
   color: #fff;
   padding: 1em 100px;
+  font-size: 20px;
 
   a {
     color: #fff;
