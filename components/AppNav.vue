@@ -32,7 +32,7 @@ export default {
   a {
     color: #fff;
     opacity: 0.8;
-    padding: 0.5rem 0rem;
+    padding: 0.8rem 0rem;
     &:hover {
       opacity: 1;
     }
