@@ -17,7 +17,7 @@ export default {
 
 <style>
 html {
-  font-family: "Open Sans", sans-serif;
+  font-family: arial, sans-serif;
   font-size: 18px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;

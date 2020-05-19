@@ -90,7 +90,7 @@ a.readmore {
   position: relative;
   color: #000;
   font-weight: 700;
-  font-family: "Open Sans", serif;
+  font-family: arial, sans-serif;
   border: 1px solid #ccc;
   background: #fff;
 }
@@ -131,7 +131,7 @@ a.readmore {
 }
 
 .tags-list li {
-  font-family: "Open Sans", serif;
+  font-family: arial, sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
   padding: 6px 15px;
